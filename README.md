@@ -1,11 +1,15 @@
-## My Project
+# AWS Amplify for Godot Engine
 
-TODO: Fill this README out!
+The [Wiki](https://github.com/aws-samples/amplify-godot-engine/wiki) contains everythins you want to know about getting started with AWS Amplify witht he Gosot Engine.
 
-Be sure to:
+## Resources
 
-* Change the title in this README
-* Edit your repository description on GitHub
+| Name  | Description |
+| ------------- | ------------- |
+| [AWS Amplify Godot Engine - Plugin](https://github.com/aws-samples/amplify-godot-engine-plugin)  | The repository provides a Godot Engine plugin to interact with AWS Ampliyf provionned AWS resources |
+| [AWS Amplify Godot Engine - Custom Build Image](https://github.com/aws-samples/amplify-godot-engine-custom-build-image)  | The repository provides an AWS Amplify custom build image to build, export and deploy Godot Engine projects on AWS   |
+| [AWS Amplify Godot Engine - Template](https://github.com/aws-samples/amplify-godot-engine-template)  | The repository provides an AWS Amplify simple Godot Engine project to get started with building, exporting and deploying Godot Engine projects on AWS  |
+| [AWS Amplify Godot Engine - Sample](https://github.com/aws-samples/amplify-godot-engine-sample)  | The repository provides an AWS Amplify advanced Godot Engine project to get started with building, exporting and deploying mixed Web and Godot Engine projects on AWS |
 
 ## Security
 
@@ -13,5 +17,5 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+This library is licensed under the MIT-0 License. See the [LICENSE](LICENSE.md) file.
 

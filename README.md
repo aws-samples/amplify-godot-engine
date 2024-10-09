@@ -1,7 +1,5 @@
 # AWS Amplify for Godot Engine
 
-## Wiki
-
 The [wiki](https://github.com/aws-samples/amplify-godot-engine/wiki) contains everything you want to know about getting started with AWS Amplify with the Godot Engine.
 
 ## Discussions
